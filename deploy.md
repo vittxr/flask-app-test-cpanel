@@ -13,3 +13,4 @@
    https://medium.com/@mohdejazsiddiqui/deploy-flask-app-in-apache-shared-hosting-5b3c82c8fd5e 
    https://suporte.hostgator.com.br/hc/pt-br/articles/115000388754-Como-instalar-o-Django-em-ambientes-compartilhados-
    https://medium.com/@sergioyahni/deploy-a-flask-app-on-apache-shared-hosting-with-mysql-4dc5340611b7
+   https://medium.datadriveninvestor.com/installing-python-3-10-and-flask-on-godaddy-updated-ebe764ab78a7
